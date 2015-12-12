@@ -27,3 +27,4 @@ Or Arbel, orarbel@gmail.com
 ## License
 
 FlashPollsSDK is available under the MIT license. See the LICENSE file for more info.
+# FlashPollsSDK
