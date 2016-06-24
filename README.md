@@ -1,4 +1,4 @@
-# FlashPollsSDK
+# FlashPollsSDK1
 
 [![CI Status](http://img.shields.io/travis/Or Arbel/FlashPollsSDK.svg?style=flat)](https://travis-ci.org/Or Arbel/FlashPollsSDK)
 [![Version](https://img.shields.io/cocoapods/v/FlashPollsSDK.svg?style=flat)](http://cocoapods.org/pods/FlashPollsSDK)
