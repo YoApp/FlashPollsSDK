@@ -1,0 +1,10 @@
+source 'https://github.com/YoApp/Specs.git'
+source 'https://github.com/Cocoapods/Specs.git'
+
+use_frameworks!
+
+target 'Demo' do
+
+  pod 'FlashPollsSDK'
+
+end
