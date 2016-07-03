@@ -23,6 +23,21 @@
 + (void)initWithAppToken:(NSString *)appToken launchOptions:(NSDictionary *)launchOptions;
 
 /**
+ *  @abstract An optional initializer that allows to disable method swizzling.
+ *
+ *  @discussion When disabling swizzling, the following methods should be called manually:
+ *              1. `[FlashPollsSDK setDeviceToken:deviceToken];`
+ *              2. `[FlashPollsSDK handleRemoteNotification:userInfo];`
+ *              3. `[FlashPollsSDK handleActionWithIdentifier:identifier userInfo:userInfo];`
+ *
+ *  Example:
+ *
+ *  `[FlashPollsSDK initWithAppToken:@"3cc4ab03-86c4-4b13-853b-bea0ceba566a" launchOptions:launchOptions swizzling:NO];`
+ *
+ */
++ (void)initWithAppToken:(NSString *)appToken launchOptions:(NSDictionary *)launchOptions swizzling:(BOOL)swizzling;
+
+/**
  *  @abstract Displays native iOS dialog for push notifications permission, only if was not presented before.
  *
  *  @discussion It is recommended to present the push permission dialog at a relevant time rather than right

@@ -10,14 +10,14 @@
 @interface FlashPollsSDK : NSObject
 
 /**
- *  @abstract This method needs to be called when the app is launched.
+ *  @abstract This method must be called when the app is launched.
  *
  *  @discussion During execution of - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
  *              please call this method along with the app token for your app, which can be obtained at http://publisher.flashpolls.com/dashboard/
  *
  *  Example:
  *
- *  `[FlashPollsSDK initWithAppToken:@"nadsi673yqwiuebn8732" launchOptions:launchOptions];`
+ *  `[FlashPollsSDK initWithAppToken:@"3cc4ab03-86c4-4b13-853b-bea0ceba566a" launchOptions:launchOptions];`
  *
  */
 + (void)initWithAppToken:(NSString *)appToken launchOptions:(NSDictionary *)launchOptions;
@@ -39,6 +39,7 @@
  *  @abstract Set current user information.
  *
  *  @discussion Allows to attach user information that will be linked to each vote.
+ *              The information about the user is from your app and can be anything.
  *
  *  Example:
  *
@@ -87,6 +88,9 @@
  */
 + (void)handleActionWithIdentifier:(NSString *)identifier userInfo:(NSDictionary *)userInfo;
 
-+ (NSBundle *)frameworkBundle;
+/**
+ *  @abstract Toggles log messages. Default: YES
+ */
++ (void)setDebug:(BOOL)flag;
 
 @end

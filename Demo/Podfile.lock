@@ -1,11 +1,11 @@
 PODS:
-  - FlashPollsSDK (0.0.1)
+  - FlashPollsSDK (1.0.0)
 
 DEPENDENCIES:
   - FlashPollsSDK
 
 SPEC CHECKSUMS:
-  FlashPollsSDK: dc9afaabb7dcfabf9ee20b419bd3528fd77d341e
+  FlashPollsSDK: df92661438d0453a633191cdca2bda55c28e9d6f
 
 PODFILE CHECKSUM: 681ccb1d485d3490b01498b7757ea4c226ca9903
 

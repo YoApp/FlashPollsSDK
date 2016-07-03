@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="16A201w" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="5z9-1p-QBg">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="fF9-of-Xpq">
+            <objects>
+                <viewController id="5z9-1p-QBg" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="xRQ-lG-HSE"/>
+                        <viewControllerLayoutGuide type="bottom" id="vpa-nm-WlZ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="WEE-35-9Y3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="wsj" translatesAutoresizingMaskIntoConstraints="NO" id="lkT-9y-CfC">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="lkT-9y-CfC" firstAttribute="top" secondItem="WEE-35-9Y3" secondAttribute="top" id="95g-ZA-ttj"/>
+                            <constraint firstAttribute="trailing" secondItem="lkT-9y-CfC" secondAttribute="trailing" id="IJS-Ny-13y"/>
+                            <constraint firstItem="vpa-nm-WlZ" firstAttribute="top" secondItem="lkT-9y-CfC" secondAttribute="bottom" id="gJE-pO-VxK"/>
+                            <constraint firstItem="lkT-9y-CfC" firstAttribute="leading" secondItem="WEE-35-9Y3" secondAttribute="leading" id="iNJ-vc-lM0"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rfh-Rb-rMJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="717" y="438"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="wsj" width="375" height="667"/>
+    </resources>
+</document>
