@@ -1,1 +1,0 @@
-../../../../FlashPollsSDK/FlashPolls.framework/Headers/FlashPollsSDK.h
