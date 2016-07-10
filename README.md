@@ -19,6 +19,8 @@ pod "FlashPollsSDK"
 In your `AppDelegate`:
 
 ```
+#import <FlashPolls/FlashPollsSDK.h>
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     [FlashPollsSDK initWithAppToken:@"<your_app_token>" launchOptions:launchOptions];
