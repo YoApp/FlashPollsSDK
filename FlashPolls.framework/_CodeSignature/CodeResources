@@ -4,53 +4,65 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>FPNotificationActionCell.nib</key>
+		<data>
+		ITMHjmyL/59+Bxmg6jPIDoQ0sU4=
+		</data>
 		<key>FPNotificationActionCell~ipad.nib/objects-8.0+.nib</key>
 		<data>
-		4/OeMzCruk65r0vAOo/EkhbzoNc=
+		dfVUrJP9j2DxF5S80zbJZltHabQ=
 		</data>
 		<key>FPNotificationActionCell~ipad.nib/runtime.nib</key>
 		<data>
-		cmwF2+/Af3690DOIsOGRMnEBqNE=
+		qDTrPz2HCuZfw5bTCvxqW1+3HSY=
 		</data>
 		<key>FPNotificationActionCell~iphone.nib/objects-8.0+.nib</key>
 		<data>
-		MwHGlcL4sOQU5EkQrV61p/Y40oM=
+		zLxfMTcryF+CR197YE8FtqHDQI8=
 		</data>
 		<key>FPNotificationActionCell~iphone.nib/runtime.nib</key>
 		<data>
-		Eu18Nbqu6O5lGP0j/lRT23rPwbI=
+		TBOv3A/Wkt0SrSUKKQ/oWk62ZUk=
+		</data>
+		<key>FPNotificationHeaderCell.nib</key>
+		<data>
+		N/rrFVsAFBewAG4U8bOAvDW3Emc=
 		</data>
 		<key>FPNotificationHeaderCell~ipad.nib/objects-8.0+.nib</key>
 		<data>
-		7CzwdD6MoLo05tsUkWOD6RlkOKs=
+		hLrJK6mdgeXUsN9unsaPxuP3D8k=
 		</data>
 		<key>FPNotificationHeaderCell~ipad.nib/runtime.nib</key>
 		<data>
-		V9mGMop9f8tiGWnkYPGqO70c/4k=
+		nV9g08Y1xL03p7UWvV+EkBhC0Gs=
 		</data>
 		<key>FPNotificationHeaderCell~iphone.nib/objects-8.0+.nib</key>
 		<data>
-		W92MCAUyNZ2jqpQPC/J69KvtXSQ=
+		jYCkuQwHAymeNd2GQ9TA67zdENE=
 		</data>
 		<key>FPNotificationHeaderCell~iphone.nib/runtime.nib</key>
 		<data>
-		egq4uwz/2NpfmF8q+U3T+96XmD4=
+		xA3693dz1OZF95B88bOV0fP8UVg=
+		</data>
+		<key>FPNotificationTextCell.nib</key>
+		<data>
+		2r9WRZ74G8Jj/+729p3wlDaHtRg=
 		</data>
 		<key>FPNotificationTextCell~ipad.nib/objects-8.0+.nib</key>
 		<data>
-		f1tLFhAgRBzzvUP9McduEPDv0vI=
+		E4b2SCUHz9EVhSIJDWXuh9O+y+s=
 		</data>
 		<key>FPNotificationTextCell~ipad.nib/runtime.nib</key>
 		<data>
-		Ge5neJFC+TOuw3vzqHafcGthIjg=
+		wseKKS7HxJfehDYSZr/HdKX1ynA=
 		</data>
 		<key>FPNotificationTextCell~iphone.nib/objects-8.0+.nib</key>
 		<data>
-		XHvIxob/7Zd0vcViAEl/xcbbq/4=
+		nIwfhB6dc2TxvAYY62fZp3RK2K8=
 		</data>
 		<key>FPNotificationTextCell~iphone.nib/runtime.nib</key>
 		<data>
-		wQbIlVLQHsRVpO/9UjvZ8ZaN6NY=
+		GWCN02qS8+8Oq+cRIFgtcbV1+lc=
 		</data>
 		<key>Headers/FlashPollsSDK.h</key>
 		<data>
@@ -58,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iJMX58Y1MsWr4DJ+S1EPIjjNV6A=
+		bidef1lpWy92P3trk+g3u1xyAbw=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -80,136 +92,169 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>FPNotificationActionCell.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ITMHjmyL/59+Bxmg6jPIDoQ0sU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SoRRJyuHAQa0Qyv/RAPKX6KaHdnjzMlvlWH8seB/TJE=
+			</data>
+		</dict>
 		<key>FPNotificationActionCell~ipad.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4/OeMzCruk65r0vAOo/EkhbzoNc=
+			dfVUrJP9j2DxF5S80zbJZltHabQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yZ/KIDxJbdAYJiCDkdY/vY4QAn/i9YyYh4tEOQz5Zf4=
+			9tO+yRSajigg5dy6bSu+4ya84jHLhld29NC/G0rLOAM=
 			</data>
 		</dict>
 		<key>FPNotificationActionCell~ipad.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cmwF2+/Af3690DOIsOGRMnEBqNE=
+			qDTrPz2HCuZfw5bTCvxqW1+3HSY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0avB45F51aDAWIJ7pamD2s12/MPllMziES+akEkffTI=
+			N1IUCW6SMi2od3gChib8PCSjXJTJgWwQGJycGPGq3/Q=
 			</data>
 		</dict>
 		<key>FPNotificationActionCell~iphone.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MwHGlcL4sOQU5EkQrV61p/Y40oM=
+			zLxfMTcryF+CR197YE8FtqHDQI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			9C7GEMJjZ2kAHm7rDPqoTjdWDD7IxUf+zWGC7d/zQh8=
+			OAtEIOIIzEUnNPGXx+UgmB6m4Sjy0gxQYthu/d+SZ6I=
 			</data>
 		</dict>
 		<key>FPNotificationActionCell~iphone.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Eu18Nbqu6O5lGP0j/lRT23rPwbI=
+			TBOv3A/Wkt0SrSUKKQ/oWk62ZUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			kQ03g/LGk4Jl3nAXX/vz8FEsefJwlvlTLJH/jucjADg=
+			8jMe7Egtq3UeP2LSbMb7xu+jkB51NrMcztTJc/dpBbA=
+			</data>
+		</dict>
+		<key>FPNotificationHeaderCell.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N/rrFVsAFBewAG4U8bOAvDW3Emc=
+			</data>
+			<key>hash2</key>
+			<data>
+			z6/eTCmdBvgA3Bhj3h7lgZyav3lGyOiwc1xN6ebWfsM=
 			</data>
 		</dict>
 		<key>FPNotificationHeaderCell~ipad.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7CzwdD6MoLo05tsUkWOD6RlkOKs=
+			hLrJK6mdgeXUsN9unsaPxuP3D8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			iXXlP9LblSjbL9zzK6ZiVxZDEw67fygZak+kF7RhS5s=
+			tdiV3C3A6bd6icNudM0pVOtMdCpVz+JeHS3zRAsa6OY=
 			</data>
 		</dict>
 		<key>FPNotificationHeaderCell~ipad.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V9mGMop9f8tiGWnkYPGqO70c/4k=
+			nV9g08Y1xL03p7UWvV+EkBhC0Gs=
 			</data>
 			<key>hash2</key>
 			<data>
-			imoZyuhuvTcS4FlAppe/6cR1FYt5xMT1Q6DbheOu8l0=
+			GaBx6mNY9eCCHiKDbK0Zwsx4imkiYNb6Fm6UMy78v1Y=
 			</data>
 		</dict>
 		<key>FPNotificationHeaderCell~iphone.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W92MCAUyNZ2jqpQPC/J69KvtXSQ=
+			jYCkuQwHAymeNd2GQ9TA67zdENE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6nkDDKa5xAAnE8Nkg+bn3FVOq6cxhdRkm5ggPbhzoWY=
+			U3b3On1ihryJNsO7uw9ZLNz9slcHBtIUMPbWT8VkTYE=
 			</data>
 		</dict>
 		<key>FPNotificationHeaderCell~iphone.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			egq4uwz/2NpfmF8q+U3T+96XmD4=
+			xA3693dz1OZF95B88bOV0fP8UVg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PIgkXJZt9kPKzgbhHyFcHLJz/RfAFBEC58LJ73br9xg=
+			86RVRUJ1g0rMhGexWG7m1pU3AXUR0FsY+Bop6I1y/FQ=
+			</data>
+		</dict>
+		<key>FPNotificationTextCell.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2r9WRZ74G8Jj/+729p3wlDaHtRg=
+			</data>
+			<key>hash2</key>
+			<data>
+			S80G+SMOCkoODrrAgpKG7CKof0lR18LYzhK5pVS6AYY=
 			</data>
 		</dict>
 		<key>FPNotificationTextCell~ipad.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f1tLFhAgRBzzvUP9McduEPDv0vI=
+			E4b2SCUHz9EVhSIJDWXuh9O+y+s=
 			</data>
 			<key>hash2</key>
 			<data>
-			rW47sBaxXUSIwViFbmnBmV6ScU+UWE+T+7NW+nxsfTU=
+			jMI8fwwVNt2k0yhjhBmzgtRMwc5WpnNEJJLnLn1IeoM=
 			</data>
 		</dict>
 		<key>FPNotificationTextCell~ipad.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ge5neJFC+TOuw3vzqHafcGthIjg=
+			wseKKS7HxJfehDYSZr/HdKX1ynA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5YFSv+VSH1BF6FDXuMmJr4hTTv7yHyHt6trEDYjULtM=
+			+/SXlcNHpzoh5T5f0ee83vV5rIOlG7OQ2TDGF5U+Cew=
 			</data>
 		</dict>
 		<key>FPNotificationTextCell~iphone.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XHvIxob/7Zd0vcViAEl/xcbbq/4=
+			nIwfhB6dc2TxvAYY62fZp3RK2K8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SSYFK8uh8U4dEtCmTTkABjbgJiv5fYAqoIYeaSf+jks=
+			79nvdJqjONiKo9uN53uFs+bpga9ZFYATxFQof8w15D8=
 			</data>
 		</dict>
 		<key>FPNotificationTextCell~iphone.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wQbIlVLQHsRVpO/9UjvZ8ZaN6NY=
+			GWCN02qS8+8Oq+cRIFgtcbV1+lc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zeiLNxVuLnEiEIVvm6NZ6xs3aJwYlsJKdwB431mkwqw=
+			bTL7nrdl3CSk2itz/FfaKGA6wHtDT66J7yp2PQSx3Qc=
 			</data>
 		</dict>
 		<key>Headers/FlashPollsSDK.h</key>
