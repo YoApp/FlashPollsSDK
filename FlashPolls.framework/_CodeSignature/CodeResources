@@ -10,15 +10,15 @@
 		</data>
 		<key>FPNotificationActionCell.nib</key>
 		<data>
-		ZV3ZlDWdp+cyTXgUe5E1Tzo3pU8=
+		e4W4jCneB3eYW8NAayMXDy1tQjU=
 		</data>
 		<key>FPNotificationHeaderCell.nib</key>
 		<data>
-		wesxXiVttHL/DbYAEQkZgFogsKc=
+		oINtqe8UurWGB4+bf6BshxZer+A=
 		</data>
 		<key>FPNotificationTextCell.nib</key>
 		<data>
-		WZ3O4dk+NNTEK9l5sULcqq4+noc=
+		CRvmItNlJl3/+57fExuFiTC2Tfo=
 		</data>
 		<key>Headers/FlashPollsSDK.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2PogSQ1pc8TkFBWF674AWJiVFiY=
+		iSTr2IUPDMBAHbW988HnjtePaOo=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -52,33 +52,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZV3ZlDWdp+cyTXgUe5E1Tzo3pU8=
+			e4W4jCneB3eYW8NAayMXDy1tQjU=
 			</data>
 			<key>hash2</key>
 			<data>
-			guxudQ7W/C452RylVIrwEikkgjkHcMBYDuapRuD4O/0=
+			Vj1olMp74XYmamyT1mr4Zy5HxTMzTbvlpvh8bd7qSuY=
 			</data>
 		</dict>
 		<key>FPNotificationHeaderCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wesxXiVttHL/DbYAEQkZgFogsKc=
+			oINtqe8UurWGB4+bf6BshxZer+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			rmra5KHirmUCKEXyE8l+PO4FMT4yLDbmnQppyhevZls=
+			ANH397XrIEEfHwjA4+P2/zfg48qbS1Fq6mPKRopZOEs=
 			</data>
 		</dict>
 		<key>FPNotificationTextCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WZ3O4dk+NNTEK9l5sULcqq4+noc=
+			CRvmItNlJl3/+57fExuFiTC2Tfo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0PDXvlIKRXl30cvqiRoB6ZSzZyrijNkLW9DwZZ24sHs=
+			b7DWSdLSkyPZVXJsi/c/z3Y9iPBmzkj7F0WnXh2Dtco=
 			</data>
 		</dict>
 		<key>Headers/FlashPollsSDK.h</key>
